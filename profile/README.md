@@ -3,7 +3,7 @@
 <h2 align="center">Service Status</h2>
 
 <p align="center">
-  <a href="https://your-status-page.com" target="_blank">
+  <a href="https://status.antegral.net" target="_blank">
     <img src="https://status-svg.antegral.workers.dev/" alt="Service Status">
   </a>
 </p>
